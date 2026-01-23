@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 0,
+    "ad": "İsmihan Özer",
+    "gno": 2.22,
+    "tercihler": [
+      27,
+      10,
+      29,
+      0,
+      46
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 1,
+    "ad": "Aslı Sönmez",
+    "gno": 3.52,
+    "tercihler": [
+      32,
+      6,
+      40,
+      19,
+      38
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 2,
+    "ad": "Burak Kurt",
+    "gno": 2.75,
+    "tercihler": [
+      10,
+      34,
+      49,
+      33,
+      0
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 3,
+    "ad": "Ezgi Tunç",
+    "gno": 2.98,
+    "tercihler": [
+      7,
+      23,
+      19,
+      15,
+      3
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 4,
+    "ad": "Özgür Çetin",
+    "gno": 3.89,
+    "tercihler": [
+      5,
+      46,
+      31,
+      4,
+      48
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 5,
+    "ad": "Sude Arslan",
+    "gno": 2.26,
+    "tercihler": [
+      30,
+      35,
+      10,
+      16,
+      33
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 6,
+    "ad": "Ezgi Koç",
+    "gno": 3.93,
+    "tercihler": [
+      34,
+      48,
+      46,
+      44,
+      12
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 7,
+    "ad": "Emre Akyol",
+    "gno": 3.99,
+    "tercihler": [
+      41,
+      23,
+      28,
+      33,
+      7
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 8,
+    "ad": "Özgür Kösem",
+    "gno": 2.13,
+    "tercihler": [
+      1,
+      37,
+      35,
+      14,
+      0
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 9,
+    "ad": "Can Dal",
+    "gno": 2.12,
+    "tercihler": [
+      4,
+      2,
+      21,
+      32,
+      15
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 10,
+    "ad": "Tolga Duran",
+    "gno": 2.43,
+    "tercihler": [
+      8,
+      46,
+      36,
+      30,
+      15
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 11,
+    "ad": "Begüm Taş",
+    "gno": 2.38,
+    "tercihler": [
+      6,
+      42,
+      27,
+      22,
+      26
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 12,
+    "ad": "Umut Çelik",
+    "gno": 3.35,
+    "tercihler": [
+      41,
+      6,
+      3,
+      25,
+      46
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 13,
+    "ad": "Mert Aydın",
+    "gno": 2.5,
+    "tercihler": [
+      12,
+      34,
+      28,
+      8,
+      27
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 14,
+    "ad": "Elif Korkmaz",
+    "gno": 2.93,
+    "tercihler": [
+      4,
+      28,
+      35,
+      6,
+      3
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 15,
+    "ad": "İsmihan Gül",
+    "gno": 3.67,
+    "tercihler": [
+      5,
+      48,
+      15,
+      10,
+      26
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 16,
+    "ad": "Yiğit Uçar",
+    "gno": 2.43,
+    "tercihler": [
+      25,
+      3,
+      10,
+      24,
+      0
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 17,
+    "ad": "Kübra Aksoy",
+    "gno": 3.85,
+    "tercihler": [
+      29,
+      18,
+      27,
+      44,
+      46
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 18,
+    "ad": "Eren Duran",
+    "gno": 2.31,
+    "tercihler": [
+      18,
+      13,
+      3,
+      37,
+      47
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 19,
+    "ad": "Sude Çelik",
+    "gno": 3.5,
+    "tercihler": [
+      3,
+      37,
+      30,
+      32,
+      33
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 20,
+    "ad": "Gökhan Çelik",
+    "gno": 3.92,
+    "tercihler": [
+      5,
+      11,
+      4,
+      38,
+      43
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 21,
+    "ad": "Özgür Akyol",
+    "gno": 2.24,
+    "tercihler": [
+      36,
+      15,
+      37,
+      38,
+      2
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 22,
+    "ad": "Onur Öztürk",
+    "gno": 2.84,
+    "tercihler": [
+      37,
+      36,
+      33,
+      20,
+      16
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 23,
+    "ad": "Merve Tunç",
+    "gno": 2.48,
+    "tercihler": [
+      25,
+      8,
+      42,
+      41,
+      19
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 24,
+    "ad": "Umut Tunç",
+    "gno": 3.86,
+    "tercihler": [
+      4,
+      0,
+      29,
+      39,
+      36
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 25,
+    "ad": "Murat Şahin",
+    "gno": 3.08,
+    "tercihler": [
+      32,
+      16,
+      8,
+      22,
+      4
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 26,
+    "ad": "Özgür Tekin",
+    "gno": 2.57,
+    "tercihler": [
+      28,
+      34,
+      45,
+      19,
+      39
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 27,
+    "ad": "İsmihan Yalçın",
+    "gno": 2.02,
+    "tercihler": [
+      35,
+      19,
+      42,
+      6,
+      8
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 28,
+    "ad": "Aslı Özkan",
+    "gno": 3.78,
+    "tercihler": [
+      47,
+      35,
+      9,
+      17,
+      18
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 29,
+    "ad": "Ezgi Yavuz",
+    "gno": 3.44,
+    "tercihler": [
+      13,
+      43,
+      40,
+      16,
+      32
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 30,
+    "ad": "Yiğit Aksoy",
+    "gno": 3.81,
+    "tercihler": [
+      3,
+      5,
+      40,
+      27,
+      17
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 31,
+    "ad": "Ayşe Yılmaz",
+    "gno": 2.67,
+    "tercihler": [
+      8,
+      40,
+      16,
+      10,
+      47
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 32,
+    "ad": "Dilan Özdemir",
+    "gno": 3.41,
+    "tercihler": [
+      35,
+      0,
+      7,
+      4,
+      44
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 33,
+    "ad": "Zeynep Gül",
+    "gno": 2.07,
+    "tercihler": [
+      23,
+      37,
+      35,
+      9,
+      27
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 34,
+    "ad": "Hakan Demir",
+    "gno": 2.62,
+    "tercihler": [
+      2,
+      22,
+      13,
+      43,
+      15
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 35,
+    "ad": "Murat Sarı",
+    "gno": 3.56,
+    "tercihler": [
+      26,
+      39,
+      47,
+      9,
+      15
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 36,
+    "ad": "Gökhan Yıldız",
+    "gno": 3.76,
+    "tercihler": [
+      1,
+      11,
+      47,
+      21,
+      26
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 37,
+    "ad": "Özgür Korkmaz",
+    "gno": 2.32,
+    "tercihler": [
+      44,
+      6,
+      24,
+      2,
+      30
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 38,
+    "ad": "Deniz Erdoğan",
+    "gno": 3.63,
+    "tercihler": [
+      29,
+      22,
+      19,
+      14,
+      1
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 39,
+    "ad": "Burak Akyol",
+    "gno": 2.66,
+    "tercihler": [
+      4,
+      49,
+      17,
+      22,
+      41
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 40,
+    "ad": "Berfin Akyol",
+    "gno": 3.36,
+    "tercihler": [
+      34,
+      21,
+      1,
+      7,
+      16
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 41,
+    "ad": "Elif Kara",
+    "gno": 3.93,
+    "tercihler": [
+      16,
+      2,
+      6,
+      38,
+      27
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 42,
+    "ad": "Büşra Tunç",
+    "gno": 2.87,
+    "tercihler": [
+      32,
+      7,
+      24,
+      36,
+      12
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 43,
+    "ad": "Aslı Demir",
+    "gno": 3.42,
+    "tercihler": [
+      0,
+      33,
+      34,
+      43,
+      46
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 44,
+    "ad": "Burak Tekin",
+    "gno": 2.86,
+    "tercihler": [
+      42,
+      21,
+      39,
+      20,
+      7
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 45,
+    "ad": "Emre Sönmez",
+    "gno": 2.62,
+    "tercihler": [
+      26,
+      20,
+      25,
+      44,
+      18
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 46,
+    "ad": "Eren Arslan",
+    "gno": 2.38,
+    "tercihler": [
+      42,
+      24,
+      43,
+      47,
+      11
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 47,
+    "ad": "Onur Çetin",
+    "gno": 2.6,
+    "tercihler": [
+      35,
+      0,
+      19,
+      18,
+      13
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 48,
+    "ad": "Serkan Kara",
+    "gno": 3.21,
+    "tercihler": [
+      20,
+      29,
+      28,
+      43,
+      13
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 49,
+    "ad": "Berfin Uçar",
+    "gno": 3.59,
+    "tercihler": [
+      47,
+      10,
+      42,
+      5,
+      18
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 50,
+    "ad": "Berfin Dal",
+    "gno": 3.24,
+    "tercihler": [
+      5,
+      48,
+      15,
+      43,
+      19
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 51,
+    "ad": "Deniz Erdoğan",
+    "gno": 2.29,
+    "tercihler": [
+      2,
+      15,
+      30,
+      39,
+      49
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 52,
+    "ad": "Can Şimşek",
+    "gno": 2.83,
+    "tercihler": [
+      40,
+      36,
+      12,
+      45,
+      44
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 53,
+    "ad": "Kübra Duran",
+    "gno": 2.8,
+    "tercihler": [
+      9,
+      41,
+      44,
+      0,
+      48
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 54,
+    "ad": "Murat Koç",
+    "gno": 2.44,
+    "tercihler": [
+      44,
+      33,
+      29,
+      3,
+      35
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 55,
+    "ad": "Özgür Özkan",
+    "gno": 2.91,
+    "tercihler": [
+      29,
+      42,
+      33,
+      35,
+      38
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 56,
+    "ad": "Pelin Aksu",
+    "gno": 3.23,
+    "tercihler": [
+      46,
+      32,
+      27,
+      35,
+      28
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 57,
+    "ad": "Gökhan Uçar",
+    "gno": 2.9,
+    "tercihler": [
+      48,
+      15,
+      40,
+      17,
+      49
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 58,
+    "ad": "Koray Duran",
+    "gno": 3.25,
+    "tercihler": [
+      17,
+      28,
+      4,
+      45,
+      18
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 59,
+    "ad": "Özgür Korkmaz",
+    "gno": 2.67,
+    "tercihler": [
+      34,
+      5,
+      8,
+      9,
+      14
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 60,
+    "ad": "Kübra Kurt",
+    "gno": 3.41,
+    "tercihler": [
+      4,
+      26,
+      21,
+      34,
+      29
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 61,
+    "ad": "İrem Çelik",
+    "gno": 2.41,
+    "tercihler": [
+      26,
+      24,
+      49,
+      37,
+      44
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 62,
+    "ad": "Mehmet Çetin",
+    "gno": 2.76,
+    "tercihler": [
+      0,
+      22,
+      19,
+      48,
+      24
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 63,
+    "ad": "İrem Gül",
+    "gno": 3.5,
+    "tercihler": [
+      34,
+      38,
+      14,
+      31,
+      17
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 64,
+    "ad": "Serkan Duran",
+    "gno": 2.06,
+    "tercihler": [
+      21,
+      42,
+      43,
+      25,
+      46
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 65,
+    "ad": "Gökhan Şimşek",
+    "gno": 3.84,
+    "tercihler": [
+      39,
+      34,
+      1,
+      25,
+      37
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 66,
+    "ad": "Damla Kaya",
+    "gno": 2.17,
+    "tercihler": [
+      27,
+      8,
+      29,
+      11,
+      3
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 67,
+    "ad": "Aslı Güneş",
+    "gno": 2.65,
+    "tercihler": [
+      29,
+      20,
+      21,
+      48,
+      24
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 68,
+    "ad": "Tolga Taş",
+    "gno": 2.5,
+    "tercihler": [
+      5,
+      30,
+      1,
+      47,
+      34
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 69,
+    "ad": "Fatma Sarı",
+    "gno": 2.45,
+    "tercihler": [
+      4,
+      49,
+      41,
+      2,
+      48
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 70,
+    "ad": "Mehmet Bulut",
+    "gno": 2.4,
+    "tercihler": [
+      1,
+      39,
+      9,
+      15,
+      8
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 71,
+    "ad": "Begüm Özkan",
+    "gno": 3.13,
+    "tercihler": [
+      13,
+      29,
+      44,
+      16,
+      49
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 72,
+    "ad": "Arda Polat",
+    "gno": 3.21,
+    "tercihler": [
+      47,
+      45,
+      7,
+      49,
+      10
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 73,
+    "ad": "Emre Aydın",
+    "gno": 3.16,
+    "tercihler": [
+      19,
+      36,
+      43,
+      24,
+      25
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 74,
+    "ad": "Burak Şahin",
+    "gno": 3.18,
+    "tercihler": [
+      40,
+      15,
+      6,
+      44,
+      49
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 75,
+    "ad": "Emre Bayram",
+    "gno": 3.61,
+    "tercihler": [
+      36,
+      2,
+      22,
+      34,
+      27
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 76,
+    "ad": "Arda Şahin",
+    "gno": 3.01,
+    "tercihler": [
+      21,
+      0,
+      26,
+      31,
+      6
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 77,
+    "ad": "Serkan Tekin",
+    "gno": 3.27,
+    "tercihler": [
+      29,
+      45,
+      9,
+      27,
+      11
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 78,
+    "ad": "Koray Kırmızıoğlan",
+    "gno": 2.54,
+    "tercihler": [
+      34,
+      49,
+      30,
+      29,
+      27
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 79,
+    "ad": "Kaan Korkmaz",
+    "gno": 2.64,
+    "tercihler": [
+      15,
+      5,
+      17,
+      28,
+      48
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 80,
+    "ad": "Umut Çetin",
+    "gno": 3.22,
+    "tercihler": [
+      24,
+      21,
+      1,
+      31,
+      20
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 81,
+    "ad": "Elif Duran",
+    "gno": 2.42,
+    "tercihler": [
+      16,
+      21,
+      17,
+      38,
+      44
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 82,
+    "ad": "Tolga Özdemir",
+    "gno": 2.02,
+    "tercihler": [
+      12,
+      5,
+      15,
+      46,
+      26
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 83,
+    "ad": "Yiğit Özdemir",
+    "gno": 3.52,
+    "tercihler": [
+      44,
+      30,
+      41,
+      45,
+      31
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 84,
+    "ad": "Dilan Kaya",
+    "gno": 2.19,
+    "tercihler": [
+      14,
+      25,
+      44,
+      15,
+      19
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 85,
+    "ad": "Kaan Tekin",
+    "gno": 2.95,
+    "tercihler": [
+      33,
+      22,
+      27,
+      47,
+      35
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 86,
+    "ad": "Mert Sarı",
+    "gno": 3.41,
+    "tercihler": [
+      17,
+      19,
+      16,
+      14,
+      7
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 87,
+    "ad": "Burak Tunç",
+    "gno": 2.24,
+    "tercihler": [
+      34,
+      48,
+      44,
+      11,
+      12
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 88,
+    "ad": "Merve Uçar",
+    "gno": 2.55,
+    "tercihler": [
+      37,
+      48,
+      33,
+      38,
+      18
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 89,
+    "ad": "Murat Erdoğan",
+    "gno": 2.59,
+    "tercihler": [
+      23,
+      11,
+      19,
+      0,
+      45
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 90,
+    "ad": "Sude Arslan",
+    "gno": 2.55,
+    "tercihler": [
+      3,
+      35,
+      18,
+      44,
+      8
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 91,
+    "ad": "Melike Duran",
+    "gno": 2.21,
+    "tercihler": [
+      0,
+      36,
+      18,
+      30,
+      28
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 92,
+    "ad": "Mert Yıldız",
+    "gno": 3.93,
+    "tercihler": [
+      16,
+      30,
+      7,
+      4,
+      25
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 93,
+    "ad": "Yiğit Şahin",
+    "gno": 3.15,
+    "tercihler": [
+      43,
+      3,
+      9,
+      36,
+      19
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 94,
+    "ad": "Ece Bulut",
+    "gno": 2.24,
+    "tercihler": [
+      48,
+      26,
+      38,
+      39,
+      14
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 95,
+    "ad": "Koray Güneş",
+    "gno": 2.9,
+    "tercihler": [
+      28,
+      19,
+      37,
+      27,
+      36
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 96,
+    "ad": "Onur Çelik",
+    "gno": 3.22,
+    "tercihler": [
+      47,
+      6,
+      48,
+      13,
+      40
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 97,
+    "ad": "Merve Aksoy",
+    "gno": 3.32,
+    "tercihler": [
+      10,
+      15,
+      11,
+      35,
+      4
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 98,
+    "ad": "Gökhan Yılmaz",
+    "gno": 2.82,
+    "tercihler": [
+      44,
+      38,
+      30,
+      18,
+      2
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 99,
+    "ad": "Deniz Güler",
+    "gno": 3.41,
+    "tercihler": [
+      44,
+      29,
+      4,
+      43,
+      14
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 100,
+    "ad": "Aslı Dal",
+    "gno": 3.18,
+    "tercihler": [
+      12,
+      27,
+      7,
+      34,
+      14
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 101,
+    "ad": "İsmihan Kurt",
+    "gno": 3.82,
+    "tercihler": [
+      9,
+      4,
+      3,
+      10,
+      19
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 102,
+    "ad": "Ezgi Çetin",
+    "gno": 3.84,
+    "tercihler": [
+      28,
+      7,
+      29,
+      44,
+      19
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 103,
+    "ad": "Oğuz Korkmaz",
+    "gno": 3.0,
+    "tercihler": [
+      31,
+      28,
+      5,
+      38,
+      2
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 104,
+    "ad": "Serkan Tunç",
+    "gno": 3.21,
+    "tercihler": [
+      1,
+      5,
+      14,
+      43,
+      36
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 105,
+    "ad": "Kaan Kaya",
+    "gno": 4.0,
+    "tercihler": [
+      43,
+      17,
+      36,
+      2,
+      48
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 106,
+    "ad": "Elif Uçar",
+    "gno": 3.04,
+    "tercihler": [
+      28,
+      17,
+      11,
+      37,
+      27
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 107,
+    "ad": "Melike Duran",
+    "gno": 3.94,
+    "tercihler": [
+      30,
+      22,
+      26,
+      21,
+      20
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 108,
+    "ad": "Murat Polat",
+    "gno": 2.66,
+    "tercihler": [
+      44,
+      31,
+      18,
+      42,
+      25
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 109,
+    "ad": "Eren Demir",
+    "gno": 2.91,
+    "tercihler": [
+      20,
+      16,
+      7,
+      49,
+      25
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 110,
+    "ad": "Berfin Yılmaz",
+    "gno": 3.32,
+    "tercihler": [
+      34,
+      29,
+      26,
+      3,
+      12
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 111,
+    "ad": "Koray Tekin",
+    "gno": 3.25,
+    "tercihler": [
+      31,
+      40,
+      28,
+      48,
+      3
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 112,
+    "ad": "Merve Korkmaz",
+    "gno": 3.1,
+    "tercihler": [
+      18,
+      28,
+      44,
+      31,
+      7
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 113,
+    "ad": "Mehmet Dal",
+    "gno": 3.22,
+    "tercihler": [
+      15,
+      45,
+      10,
+      19,
+      35
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 114,
+    "ad": "Ahmet Özdemir",
+    "gno": 2.82,
+    "tercihler": [
+      14,
+      7,
+      29,
+      41,
+      9
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 115,
+    "ad": "Yiğit Güler",
+    "gno": 3.02,
+    "tercihler": [
+      17,
+      26,
+      30,
+      15,
+      29
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 116,
+    "ad": "Eren Kurt",
+    "gno": 2.77,
+    "tercihler": [
+      38,
+      32,
+      47,
+      8,
+      4
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 117,
+    "ad": "Tolga Taş",
+    "gno": 2.68,
+    "tercihler": [
+      32,
+      17,
+      0,
+      18,
+      46
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 118,
+    "ad": "Emre Kara",
+    "gno": 3.16,
+    "tercihler": [
+      42,
+      31,
+      9,
+      28,
+      34
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  },
+  {
+    "id": 119,
+    "ad": "Begüm Sarı",
+    "gno": 2.66,
+    "tercihler": [
+      48,
+      34,
+      24,
+      29,
+      20
+    ],
+    "atanan_firma": -1,
+    "yerlesme_turu": "-",
+    "tercih_sirasi": "-"
+  }
+]
