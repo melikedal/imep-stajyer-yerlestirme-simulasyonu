@@ -1,4 +1,5 @@
-🎓 imep-stajyer-yerlestirme-simulasyonu
+#### **🎓 imep-stajyer-yerlestirme-simulasyonu**
+
 Bu proje, Bursa Teknik Üniversitesi (BTÜ) bünyesinde uygulanan İşletmede Mesleki Eğitim Programı (İMEP) kapsamında, öğrencilerin başarı puanları ve tercihlerine göre en uygun firmalara yerleştirilmesini simüle eden bir Karar Destek Sistemi yazılımıdır.
 
 🎯 Proje Hakkında
