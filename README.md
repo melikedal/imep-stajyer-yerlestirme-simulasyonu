@@ -38,13 +38,9 @@ Projenin arayüzü ve çalışma mantığını daha iyi anlamak için aşağıda
 Simülasyonun başlangıç noktası olan, parametrelerin ve dosya seçimlerinin yapıldığı arayüzdür.
 ![Ana Kontrol Paneli](01-ana-arayuz.png)
 
-Simülasyon Ayarları:
+#### **Simülasyon Ayarları:** Firma ve öğrenci sayıları ile rastsallık (Seed) değeri buradan belirlenir.
 
-Firma ve öğrenci sayıları ile rastsallık (Seed) değeri buradan belirlenir.
-
-Dosya Yönetimi: 
-
-Kontenjan verileri için .csv, aday verileri için .json dosyaları sisteme tanımlanır.
+#### **Dosya Yönetimi:** Kontenjan verileri için .csv, aday verileri için .json dosyaları sisteme tanımlanır.
 
 
 #### **📜2. Simülasyon Günlüğü (Log Sistemi)**
