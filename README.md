@@ -70,17 +70,14 @@ Algoritma seçimlerine göre çıktılar farklılık gösterir:
 Simülasyonun sonunda sistem, her iki algoritmanın (Greedy vs Heuristik) verimliliğini matematiksel metriklerle kıyaslar.
 ![Karşılaştırma Analizi](04-algoritma-karsilastirma.jpeg)
 
-Metriklerin Analizi:
-#### **Memnuniyet Puanı:**
 
+#### **Memnuniyet Puanı:** 
 Öğrencilerin tercih sıralarına göre aldıkları puanların toplamıdır; Heuristik yöntem genellikle bu puanı daha yukarı taşır.
 
 #### **Çözüm Süresi:**
-
 Algoritmanın hesaplamayı bitirme süresidir; Greedy yaklaşımı doğrudan atama yaptığı için daha hızlıdır.
 
 #### **İşlem ve Tur Sayısı:**
-
 Sistemin karara ulaşmak için yaptığı iterasyon sayısıdır.
 
 #### **🛠️ Kullanılan Teknolojiler**
@@ -98,8 +95,11 @@ Openpyxl: Sonuçların Excel formatında raporlanması.
 #### **1.Gereksinimleri Yükleyin**
 
 Projenin çalışması için gerekli olan Python kütüphanelerini aşağıdaki komutu terminalinize (veya CMD) yapıştırarak yükleyebilirsiniz.
+```bash
 
 pip install pandas numpy openpyxl
+```
+
 
 #### **2.Dosyaları Hazırlayın**
 
@@ -113,7 +113,10 @@ Firma Listesi: Kontenjan ve GNO şartlarını içeren bir .csv dosyası.
 
 Ana script dosyasını çalıştırarak simülasyonu başlatın: 
 
+```bash
+
 python imep_ogrenci_yerleştirme_simülasyonu.py
+```
 
 #### **📄 Raporlama ve Çıktı Yapısı**
 
