@@ -144,7 +144,7 @@ Simülasyon sonuçları dışa aktarıldığında aşağıdaki veri yapısında 
 
 | Öğrenci Adı | GNO | Atanan Firma | Yerleşme Türü | Memnuniyet Puanı |
 | :--- | :---: | :--- | :---: | :---: |
-| Ahmet Yılmaz | 3.85 | TUSAŞ | 1. İterasyon | 5 |
+| Mehmet Kaya | 3.85 | TUSAŞ | 1. İterasyon | 5 |
 | Elif Demir | 3.42 | Peak Games | Ek Kontenjan | 3 |
 
 Detaylı Analiz: Çıktı dosyası; kontenjan doluluk oranları, en çok tercih edilen firmalar ve yerleşememe nedenleri gibi konularda ileri seviye analiz yapmaya uygun formatta yapılandırılmıştır
