@@ -95,13 +95,25 @@ Openpyxl: Sonuçların Excel formatında raporlanması.
 
 #### **📋 Nasıl Kullanılır?**
 
-Gereksinimleri Yükleyin:
+#### **1.Gereksinimleri Yükleyin**
 
-Bash
+Projenin çalışması için gerekli olan Python kütüphanelerini aşağıdaki komutu terminalinize (veya CMD) yapıştırarak yükleyebilirsiniz.
+
 pip install pandas numpy openpyxl
-Dosyaları Hazırlayın: Projenin çalışması için firma listesini içeren bir .csv ve öğrenci listesini içeren bir .json dosyası gereklidir.
 
-Uygulamayı Çalıştırın: imep_ogrenci_yerleştirme_simülasyonu.py dosyasını çalıştırarak arayüz üzerinden parametreleri (öğrenci/firma sayısı, red oranı vb.) girin ve analizi başlatın.
+#### **2.Dosyaları Hazırlayın**
+
+Projenin çalışması için iki temel veri dosyasına ihtiyaç vardır:
+
+Firma Listesi: Kontenjan ve GNO şartlarını içeren bir .csv dosyası.
+
+Öğrenci Listesi: Tercihleri içeren bir .json dosyası.
+
+#### **3. Uygulamayı Çalıştırın**
+
+Ana script dosyasını çalıştırarak simülasyonu başlatın: 
+
+python imep_ogrenci_yerleştirme_simülasyonu.py
 
 #### **📄 Raporlama ve Çıktı Yapısı**
 
