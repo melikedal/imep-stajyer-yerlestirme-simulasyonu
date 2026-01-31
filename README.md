@@ -102,7 +102,7 @@ pip install pandas numpy openpyxl
 
 #### **2.Dosyaları Hazırlayın**
 
-Projenin çalışması için iki temel veri dosyasına ihtiyaç vardır:
+Projenin çalışması için iki temel veri dosyasına ihtiyaç vardır.
 
 Firma Listesi: Kontenjan ve GNO şartlarını içeren bir .csv dosyası.
 
