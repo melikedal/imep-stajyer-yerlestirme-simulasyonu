@@ -55,7 +55,7 @@ Algoritma seçimlerine göre çıktılar farklılık gösterir:
 
 | **Greedy (Açgözlü) Akışı** | **Heuristik (Sezgisel) Akışı** |
 | :---: | :---: |
-| ![Greedy Log](02-simulasyon-gunlugu-greedy.png) | ![Heuristik Log](03-simulasyon-gunlugu-herustik.jpg) |
+| ![Greedy Log](02-simulasyon-gunlugu-greedy.png) | ![Heuristik Log](03-simulasyon-gunlugu-heuristik.png) |
 | *Şartı sağlayan ilk firmayı seçer.* | *Adaylar arasından en yüksek skorluyu seçer.* |
 
 #### **Görsel Göstergeler**
