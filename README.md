@@ -121,15 +121,17 @@ python imep_ogrenci_yerleştirme_simülasyonu.py
 
 Simülasyon tamamlandığında sistem, yerleştirme sürecini hem operasyonel hem de istatistiksel düzeyde analiz eder. Veriler üç ana koldan kullanıcıya sunulur:
 
-1. Gerçek Zamanlı Simülasyon Günlüğü
+#### **1. Gerçek Zamanlı Simülasyon Günlüğü**
+
 Uygulama arayüzündeki loğ ekranı, yerleştirme sürecini bir "karar defteri" gibi tutar:
 
 İşlem Detayları: Her öğrencinin tercih listesindeki firmalara yaptığı başvurular ve aldığı yanıtlar (Kabul/Red) anlık olarak izlenebilir.
 
 Red Mekanizması Takibi: Firmaların olasılıksal reddi sonrası açıkta kalan öğrencilerin yeniden değerlendirilme süreçleri adım adım raporlanır.
 
-2. Algoritma Karşılaştırma Paneli
-İki farklı yaklaşımın (Greedy ve Heuristik) verimliliğini ölçmek için aşağıdaki metrikler dinamik olarak hesaplanır:
+#### **2. Algoritma Karşılaştırma Paneli**
+
+İki farklı yaklaşımın (Greedy ve Heuristik) verimliliğini ölçmek için aşağıdaki metrikler dinamik olarak hesaplanır.
 
 Toplam Memnuniyet Puanı: Öğrencilerin tercih sıralarına göre aldıkları puanların toplamı (Yerleştirme kalitesini gösterir).
 
@@ -137,7 +139,7 @@ Toplam Memnuniyet Puanı: Öğrencilerin tercih sıralarına göre aldıkları p
 
 Çözüm Süresi: Milisaniye düzeyinde algoritma çalışma hızı.
 
-3.Profesyonel Çıktı Yönetimi (Excel/CSV)
+#### **3.Profesyonel Çıktı Yönetimi (Excel/CSV)**
 
 Excel (.xlsx) veya .csv formatında üretilen nihai rapor, sadece bir liste değil, kapsamlı bir veri setidir.
 Simülasyon sonuçları dışa aktarıldığında aşağıdaki veri yapısında düzenli bir rapor oluşturulur:
