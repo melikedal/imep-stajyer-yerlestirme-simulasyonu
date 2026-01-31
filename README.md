@@ -149,5 +149,6 @@ Simülasyon sonuçları dışa aktarıldığında aşağıdaki veri yapısında 
 
 Detaylı Analiz: Çıktı dosyası; kontenjan doluluk oranları, en çok tercih edilen firmalar ve yerleşememe nedenleri gibi konularda ileri seviye analiz yapmaya uygun formatta yapılandırılmıştır
 
-💡 Geliştirici Notu
+#### **💡 Geliştirici Notu**
+
 Bu simülasyon, gerçek dünya verileriyle test edilebilir ve firma-öğrenci eşleşmelerinde adaleti sağlamak adına geliştirilmiştir.
